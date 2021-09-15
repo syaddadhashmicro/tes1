@@ -1,3 +1,4 @@
 resolusi:
 -menguasai dasar dari semua cabang kecerdasan tiruan
 -sukses di dunia developer
+-membuat mesin pembelajaran tingkat tinggi
